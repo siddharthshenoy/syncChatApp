@@ -1,4 +1,4 @@
-# results if done correctly
+# Results if done correctly
 
 ![image](https://user-images.githubusercontent.com/56694590/117066436-59275d00-ad46-11eb-9617-0b34dbcab800.png)
 
