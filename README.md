@@ -2,6 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/56694590/117066436-59275d00-ad46-11eb-9617-0b34dbcab800.png)
 
+# Update 
+## Now can create multiple chat groups 
+
+![image](https://user-images.githubusercontent.com/56694590/117349853-818b9480-aec9-11eb-8e96-7a84bc1aff13.png)
+
 
 # Getting Started with Create React App
 
