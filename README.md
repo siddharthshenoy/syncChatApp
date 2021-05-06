@@ -7,6 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/56694590/117349853-818b9480-aec9-11eb-8e96-7a84bc1aff13.png)
 
+### Next update
+- logout and sign up page
 
 # Getting Started with Create React App
 
